@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+
+
+.content{
+    background-color:rgb(248, 205, 211);
+    font-family:Arial, Helvetica, sans-serif;
+    margin:0 auto;
+    padding-top: 50px;
+    padding-bottom: 100px;
+    width:1200px;
+}
+
+.mainheader{
+    display:flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: white;
+    margin:0 auto;
+    width:1200px;
+}
+
+article{
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    padding:0px;
+    margin-bottom:50px;
+}
+
+figure{
+    width:600px;
+    padding:0px;
+    margin:0px;
+}
+
+
+img{
+    width:600px;
+    object-fit:fill;
+}
+
+article header{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+figcaption{
+    padding:10px;
+}
+
+.Phototitle{
+    font-weight: bold;
+}
+.Date{
+    color:grey;
+}
+
